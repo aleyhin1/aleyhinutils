@@ -1,0 +1,10 @@
+{
+    "name": "com.aleyhin.util",
+    "version": "0.1.0",
+    "displayName": "Aleyhin Util",
+    "description": "Personal editor utilities.",
+    "unity": "6000.3",
+    "author": {
+        "name": "Batuhan Akyürek"
+    }
+}
